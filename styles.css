@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    left: auto;
+    right:auto;
+}
+button{
+    width: 120px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 8px;
+}
+body{
+    background-color: rgb(125, 135, 136);
+}
+h4{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+input{
+    border-radius: 5px;
+}
